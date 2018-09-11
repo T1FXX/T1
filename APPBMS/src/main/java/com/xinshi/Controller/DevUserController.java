@@ -13,6 +13,8 @@ import javax.servlet.http.HttpSession;
 @Controller
 @ResponseBody
 public class DevUserController {
+
+    //何聪到此一游
     @Resource
     private DevUserService service;
 
